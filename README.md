@@ -55,7 +55,7 @@ Available options:
 
 ### .setLink()
 ```javascript
-blurb.setMessage("http://google.com");
+blurb.setLink("http://google.com");
 ```
 
 ### .show()
